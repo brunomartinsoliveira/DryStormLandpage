@@ -10,14 +10,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout web
 
-/// ![Web 1]((https://github.com/brunomartinsoliveira/DryStormLandpage/blob/main/img/modeloconceitual.jpg?raw=true)).
-
+/// ![Web 1](https://raw.githubusercontent.com/brunomartinsoliveira/DryStormLandpage/refs/heads/main/img/modeloconceitual.jpg)
+/// ![Web 2](https://raw.githubusercontent.com/brunomartinsoliveira/DryStormLandpage/refs/heads/main/img/modeloconceitual2.jpg)
 
 # Como executar o projeto
 
-Pré-requisitos: npm / yarn
-
-Acessar pagina web hospedada através do github pages.
+Acessar pagina web hospedada através do github pages:
 
 
 # Autor
