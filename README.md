@@ -10,7 +10,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout web
 
-/// ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+/// ![Web 1]((https://github.com/brunomartinsoliveira/DryStormLandpage/blob/main/img/modeloconceitual.jpg?raw=true)).
 
 
 # Como executar o projeto
