@@ -3,10 +3,11 @@
 Drystorm é um projeto de página web desenvolvido com HTML5 e CSS3, voltado para a apresentação de uma marca fictícia de roupas esportivas dryfit. O objetivo é simular uma landing page moderna, 
 responsiva e visualmente atrativa, com foco na usabilidade e no design clean.
 
-## 🧩 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 - **HTML5**: Estruturação semântica do conteúdo.
 - **CSS3**: Estilização, layout responsivo e animações.
+- **Hospedagem via GitHub Pages**
 
 ## 📌 Funcionalidades
 
@@ -25,10 +26,11 @@ responsiva e visualmente atrativa, com foco na usabilidade e no design clean.
 # Como executar o projeto
 
 Acessar pagina web hospedada através do github pages:
-https://brunomartinsoliveira.github.io/DryStormLoginScreen/
+[link](https://brunomartinsoliveira.github.io/DryStormLandpage/)
 
 # Autor
 
 Bruno Martins de Oliveira
 
-https://www.linkedin.com/in/martinsbrunodev/
+🔗[LinkedIn](https://www.linkedin.com/in/martinsbrunodev/)
+📧brunomartinsoliveira28@gmail.com
