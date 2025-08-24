@@ -1,0 +1,34 @@
+# 🌀 Drystorm - Roupas Dryfit
+
+Drystorm é um projeto de página web desenvolvido com HTML5 e CSS3, voltado para a apresentação de uma marca fictícia de roupas esportivas dryfit. O objetivo é simular uma landing page moderna, 
+responsiva e visualmente atrativa, com foco na usabilidade e no design clean.
+
+## 🧩 Tecnologias Utilizadas
+
+- **HTML5**: Estruturação semântica do conteúdo.
+- **CSS3**: Estilização, layout responsivo e animações.
+
+## 📌 Funcionalidades
+
+- Estrutura responsiva para diferentes tamanhos de tela.
+- Layout moderno com tipografia e cores personalizadas.
+- Seções de:
+  - **Apresentação da marca**
+  - **Catálogo de produtos**
+  - **Benefícios do tecido dryfit**
+  - **Rodapé com redes sociais e contato**
+
+## 📸 Preview
+![Web 1](https://raw.githubusercontent.com/brunomartinsoliveira/DryStormLandpage/refs/heads/main/img/modeloconceitual.jpg)
+![Web 2](https://raw.githubusercontent.com/brunomartinsoliveira/DryStormLandpage/refs/heads/main/img/modeloconceitual2.jpg).
+
+# Como executar o projeto
+
+Acessar pagina web hospedada através do github pages:
+https://brunomartinsoliveira.github.io/DryStormLoginScreen/
+
+# Autor
+
+Bruno Martins de Oliveira
+
+https://www.linkedin.com/in/martinsbrunodev/
