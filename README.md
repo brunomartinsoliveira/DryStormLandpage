@@ -34,3 +34,6 @@ Bruno Martins de Oliveira
 
 🔗[LinkedIn](https://www.linkedin.com/in/martinsbrunodev/)
 📧brunomartinsoliveira28@gmail.com
+
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
