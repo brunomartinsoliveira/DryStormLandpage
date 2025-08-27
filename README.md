@@ -1,6 +1,6 @@
 # 🌀 Drystorm - Roupas Dryfit
 
-Drystorm é um projeto de página web desenvolvido com HTML5 e CSS3, voltado para a apresentação de uma marca fictícia de roupas esportivas dryfit. O objetivo é simular uma landing page moderna, 
+Drystorm é um projeto de página web desenvolvido com HTML5 e CSS3, voltado para a apresentação de uma marca de roupas esportivas dryfit. O objetivo foi criar uma landing page moderna, 
 responsiva e visualmente atrativa, com foco na usabilidade e no design clean.
 
 ## 💻 Tecnologias Utilizadas
