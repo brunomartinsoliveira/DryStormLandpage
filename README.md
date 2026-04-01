@@ -32,7 +32,7 @@ Acessar pagina web hospedada através do github pages:
 
 Bruno Martins de Oliveira
 
-🔗[LinkedIn](https://www.linkedin.com/in/martinsbrunodev/)
+🔗[LinkedIn]((https://www.linkedin.com/in/brunooliveiradev/))
 📧brunomartinsoliveira28@gmail.com
 
 ## 📄 Licença
